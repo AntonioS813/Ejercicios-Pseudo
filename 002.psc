@@ -10,4 +10,5 @@ Algoritmo ejercicio2
 	Escribir "También puedo hacerlo de otro modo, pero has de leer el codigo para entenderlo"
 	Escribir numero*3
 	Escribir "Simulación finalizada"
+	
 FinAlgoritmo

@@ -17,5 +17,7 @@ Algoritmo ejercicio4
 	Si respuesta="no" Entonces Escribir "Bueno, te espero aquí mismo" 
 		
 	FinSi
+	Escribir "Fin de simulación"
+	
 Fin Algoritmo
 

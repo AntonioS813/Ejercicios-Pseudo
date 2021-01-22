@@ -5,4 +5,5 @@ Algoritmo ejercicio1
 	Leer nombre
 	Escribir "Está bien, " nombre ". Estoy seguro que aprenderás mucho conmigo :D"
 	Escribir "Fin de simulación"
+	
 FinAlgoritmo

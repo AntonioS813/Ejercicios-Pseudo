@@ -11,4 +11,5 @@ Algoritmo ejercicio5
 	Escribir "segunda solución: " (-b - RC((b^2)-4*a*c)) / (2*a)
 	Escribir "Buen ejercicio" ", hasta pronto"
 	Escribir "Fin de simulación"
+	
 FinAlgoritmo
