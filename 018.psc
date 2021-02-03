@@ -4,11 +4,14 @@ Algoritmo ejercicio18
 	si a<0 entonces escribir "No voy a contar desdde un numero negativo"
 		
 	FinSi
-	si n>0 entonces escribir "Vale, cierro los ojos" " -.-"
+	si a>0 entonces escribir "Vale, cierro los ojos" " -.-"
+		n<-a
 		
 		mientras n>0 hacer 
+			escribir n
 			n<-n-1
-			escribir n-1
+			esperar 1 Segundos
+			
 		FinMientras
 		escribir "Espero que te hayas escondido, allá voy!!"
 	FinSi

@@ -3,7 +3,7 @@ Algoritmo ejercicio8
 	Leer nombre
 	Escribir "Bienvenido de nuevo, " nombre
 	Escribir "Este ejercicio forma parte de los intervalos, debes darme tres numeros siendo el primero y el ultimo los extremos y el numero central el numero que quieras comprobar"
-	Escribir "IMPORTANTE, dame siempre a como extremo mas pequeño y c como extremo más grande, que si no me lio"
+	Escribir "IMPORTANTE, dame siempre a como extremo inferior y c como extremo superior, que si no me lio"
 	Leer a
 	Leer b
 	Leer c

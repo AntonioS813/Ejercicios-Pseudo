@@ -4,7 +4,7 @@ Algoritmo ejercicio15
 	Leer b
 	leer c
 	
-	si a+b+c>200 entonces escribir "Tienes derecho al descuento"
+	si a+b+c>=200 entonces escribir "Tienes derecho al descuento"
 		escribir a+b+c 
 		escribir (a+b+c)*0.85 
 	FinSi

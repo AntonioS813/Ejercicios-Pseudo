@@ -11,7 +11,7 @@ Algoritmo ejercicio4
 		Escribir "Esta es la longitud: " numero*2*PI " unidades"
 		Escribir "Vale, ahora la superficie: " (numero^2)*PI " unidades al cuadrado"
 		Escribir "Maravilloso ejercicio"
-		Escribir "Simulación finalizada"
+	
 		
 	FinSi
 	Si respuesta="no" Entonces Escribir "Bueno, te espero aquí mismo" 

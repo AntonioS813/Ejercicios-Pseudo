@@ -3,8 +3,8 @@ Algoritmo ejercicio17
 	leer a
 	
 	si a>0 entonces escribir "Es positivo"
-		escribir n
-		mientras n<a hacer 
+		escribir 1
+		mientras n<a-1 hacer 
 			n<-n+1
 			
 			escribir n+1
@@ -13,7 +13,7 @@ Algoritmo ejercicio17
 	FinSi
 	si a<0 entonces escribir "Esto es negativo"
 		escribir -1
-		mientras n>a hacer 
+		mientras n>a+1 hacer 
 			n<-n-1
 			escribir n-1
 		FinMientras
@@ -21,3 +21,4 @@ Algoritmo ejercicio17
 	
 	
 FinAlgoritmo
+	
