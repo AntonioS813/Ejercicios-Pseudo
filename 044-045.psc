@@ -19,7 +19,7 @@ FinFuncion
 
 
 
-algoritmo ejercicio44y45
+algoritmo ejercicio44/45
 	//rellenar matriz
 	definir matriz Como Entero
 	escribir "Dame filas"
