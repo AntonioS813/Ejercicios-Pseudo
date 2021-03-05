@@ -19,14 +19,14 @@ FinFuncion
 
 
 
-algoritmo ejercicio44/45
+algoritmo ejercicio44y45
 	//rellenar matriz
 	definir matriz Como Entero
 	escribir "Dame filas"
 	leer filas
 	escribir "Dame columnas"
 	leer columnas
-	escribir "Damme el maximo"
+	escribir "Dame el maximo"
 	leer maximo
 	escribir "Dame el minimo"
 	leer minimo
